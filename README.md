@@ -1,9 +1,14 @@
-## Hi there 👋
+### Hi there 👋
+<!-- Level 1: Simple bio and stats -->
 
 <!--
 **Wangjarimm/Wangjarimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Gaizka Wisnu!
 
 Here are some ideas to get you started:
+👩🏻‍💻 Backend Developer sharing about my journey and learnings in tech<br/>
+👩🏻‍🎓 Studied INformatics Engineering at International University of Logistics and Business, Bandung<br/>
+💭 Currently learning about machine learning!<br/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
