@@ -1,4 +1,4 @@
-### Hi, I'm Gaizka Wisnu!
+### Hi !
 
 👩🏻‍💻 Backend Developer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 currently studying Informatics Engineering at International University of Logistics and Business, Bandung<br/>
