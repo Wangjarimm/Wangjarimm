@@ -25,7 +25,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
 <ul>
 <h2>⚡️ Where to find me</h2>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gaizkawisnuu) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@chickennugg3ts) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaizka053@gmail.com) 
+<p><a target="_blank" href="https://www.instagram.com/gaizkawisnuu" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p> 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Wangjarimm&theme=rose&hide_border=false&include_all_commits=true&count_private=false" alt="Wangjarimm" /></p>
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Wangjarimm&theme=rose&hide_border=false)" alt="Wangjarimm" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wangjarimm&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Wangjarimm" /></p>
