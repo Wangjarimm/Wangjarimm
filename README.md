@@ -26,6 +26,6 @@
 <ul>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.instagram.com/gaizkawisnuu" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Wangjarimm&theme=rose&hide_border=false&include_all_commits=true&count_private=false" alt="Wangjarimm" /></p>
-<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Wangjarimm&theme=rose&hide_border=false)" alt="Wangjarimm" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wangjarimm&theme=rose&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Wangjarimm" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Wangjarimm&theme=rose&show_icons=true&locale=en" alt="Wangjarimm" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Wangjarimm&theme=rose&" alt="Wangjarimm" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wangjarimm&theme=rose&show_icons=true&locale=en&layout=compact" alt="Wangjarimm" /></p>
