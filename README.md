@@ -22,7 +22,7 @@ A web-based dashboard for tracking DAMRI employee performance, built around four
 
 `Codeigntier` `MySQL` `Gemini API`
 
-[Lihat Repo →](https://github.com/Wangjarimm/descdhcip)
+[Project Detail →](https://wangjarimm.github.io/descdhcip/)
 
 ### 📊 Nama Proyek 2
 Deskripsi singkat: masalah yang diselesaikan, fitur utama, dan hasil/dampaknya.
