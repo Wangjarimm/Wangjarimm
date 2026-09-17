@@ -17,12 +17,12 @@
 
 ##  Featured Projects
 
-### 📦 Nama Proyek 1
-Deskripsi singkat: masalah yang diselesaikan, fitur utama, dan hasil/dampaknya.
+### 📦 DAMRI Human Capital Intelligence Platform
+A web-based dashboard for tracking DAMRI employee performance, built around four core modules: Dashboard (a company-wide KPI overview), Employee Details (individual KPI, work attitude, attendance, and 360° assessment data), Nine Box Matrix (performance-vs-potential mapping at the leader, division, and directorate level), and AI Recommendation (automated, Gemini Flash 2.5-powered suggestions for performance improvement). Live at dhcip.my.id.
 
-`Go` `PostgreSQL` `Docker`
+`Codeigntier` `MySQL` `Gemini API`
 
-[Lihat Repo →](https://github.com/Wangjarimm/nama-repo-1)
+[Lihat Repo →](https://github.com/Wangjarimm/descdhcip)
 
 ### 📊 Nama Proyek 2
 Deskripsi singkat: masalah yang diselesaikan, fitur utama, dan hasil/dampaknya.
