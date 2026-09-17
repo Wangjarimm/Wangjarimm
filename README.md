@@ -104,10 +104,10 @@ Deskripsi singkat: masalah yang diselesaikan, fitur utama, dan hasil/dampaknya.
 ## ⚡️ Where to Find Me
 
 <p align="center">
-  <a href="https://www.instagram.com/Wangjarimm" target="_blank">
+  <a href="https://www.instagram.com/gaizkawisnu" target="_blank">
     <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/Wangjarimm" target="_blank">
+  <a href="https://www.linkedin.com/in/gaizkawisnuprawira" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230A66C2" alt="linkedin" />
   </a>
 </p>
