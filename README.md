@@ -18,7 +18,7 @@
 ##  Featured Projects
 
 ### 📦 DAMRI Human Capital Intelligence Platform
-A web-based dashboard for tracking DAMRI employee performance, built around four core modules: Dashboard (a company-wide KPI overview), Employee Details (individual KPI, work attitude, attendance, and 360° assessment data), Nine Box Matrix (performance-vs-potential mapping at the leader, division, and directorate level), and AI Recommendation (automated, Gemini Flash 2.5-powered suggestions for performance improvement). Live at dhcip.my.id.
+A web-based dashboard for tracking DAMRI employee performance, built around four core modules: **Dashboard** (a company-wide KPI overview), **Employee Details** (individual KPI, work attitude, attendance, and 360° assessment data), **Nine Box Matrix** (performance-vs-potential mapping at the leader, division, and directorate level), and **AI Recommendation** (automated, Gemini Flash 2.5-powered suggestions for performance improvement). Live at [dhcip.my.id (https://dhcip.my.id/).
 
 `Codeigntier` `MySQL` `Gemini API`
 
