@@ -1,18 +1,8 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn" />
-</h1>
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,50:16213e,100:0f3460&height=230&section=header&text=Hey,%20I'm%20Wangjarimm&fontSize=46&fontColor=58A6FF&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20crafting%20clean%20APIs%20%26%20exploring%20Machine%20Learning&descAlignY=55&descSize=16&descColor=CBD5E1" /> <br/> <a href="https://github.com/Wangjarimm"> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=const+role+%3D+%22Backend+Developer%22%3B;const+status+%3D+%22Learning+Machine+Learning%22%3B;const+mindset+%3D+%22Build.+Break.+Learn.+Repeat.%22%3B" alt="Typing SVG" /> </a>
 
-<p align="center">
-  <a href="https://github.com/Wangjarimm">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Hi+%2C+I%27m+NAMA+KAMU;Backend+Developer;Informatics+Engineering+Student;Currently+learning+Machine+Learning!" />
-  </a>
-</p>
+<br/><br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wangjarimm&label=Profile%20Views&color=58A6FF&style=flat" />
-  <img src="https://img.shields.io/github/followers/Wangjarimm?label=Followers&style=flat&color=58A6FF" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20ML-58A6FF?style=flat" />
-</p>
+<img src="https://img.shields.io/github/followers/Wangjarimm?label=Followers&style=for-the-badge&logo=github&color=1A1A2E&labelColor=58A6FF" /> <img src="https://komarev.com/ghpvc/?username=Wangjarimm&label=Profile+Views&style=for-the-badge&color=58A6FF&labelColor=1A1A2E" /> </div>
 
 ##  About Me
 
