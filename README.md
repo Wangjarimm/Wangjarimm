@@ -57,4 +57,4 @@ Deskripsi singkat: masalah yang diselesaikan, fitur utama, dan hasil/dampaknya.
   <img src="https://streak-stats.demolab.com/?user=Wangjarimm&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&row=2&column=3&theme=tokyonight&no-frame=true" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=400&size=14&duration=3200&pause=1200&color=64748B&center=true&vCenter=true&width=420&lines=Thanks+for+stopping+by!;Let's+build+something+great." /> </p> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:16213e,100:0f3460&height=6&section=footer" width="100%" />
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&row=2&column=3&theme=tokyonight&no-frame=true" /> </p> <p align="center"> <sub><i>✨ Thanks for stopping by! Let's build something great. ✨</i></sub> </p> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:16213e,100:0f3460&height=6&section=footer" width="100%" />
