@@ -133,7 +133,7 @@ A web-based reporting platform that gives children a safe, anonymous space to re
 
 `Go` `MongoDB` `AI Chatbot`
 
-[Lihat Repo →](https://wangjarimm.github.io/descsirani/)
+[Project Detail →](https://wangjarimm.github.io/descsirani/)
 
 ### 🤖 Nama Proyek 3
 Deskripsi singkat: masalah yang diselesaikan, fitur utama, dan hasil/dampaknya.
