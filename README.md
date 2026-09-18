@@ -126,11 +126,11 @@ A web-based reporting platform that gives children a safe, anonymous space to re
 [Project Detail →](https://wangjarimm.github.io/descsirani/)
 
 ### 🤖 Nama Proyek 3
-Deskripsi singkat: masalah yang diselesaikan, fitur utama, dan hasil/dampaknya.
+A Web-based platform for ordering and managing laundry services online, built around three core areas: user ordering (customers pick a laundry service, check out, and pay via QRIS, bank transfer, or cash, then receive an invoice as proof of payment and pickup), payment & invoicing (online payments confirmed and turned into an invoice the customer shows to collect their laundry), and admin panel (a dashboard where admins record finances, manage user roles, and view customer data). Live at [proyek3-pos.github.io/laundrypos-fe](https://proyek3-pos.github.io/laundrypos-fe/).
 
-`Python` `Pandas` `Scikit-learn`
+`Go` `JavaScript` `MongoDB`
 
-[Lihat Repo →](https://github.com/Wangjarimm/nama-repo-3)
+[Lihat Repo →](https://wangjarimm.github.io/desclaundry/)
 
 ---
 
