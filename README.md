@@ -30,25 +30,12 @@
 <td valign="top" width="33%">
 
 ### 🌐 Frontend & Frameworks
-| | | | | |
-|:---:|:---:|:---:|:---:|:---:|
-| <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35" /></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35" /></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35" /></a> | <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/Wangjarimm/pickmeup/main/icon/logo-laravel-icon-1024.png?raw=true" alt="laravel" width="35" height="35" /></a> | <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35" /></a> |
-| Bootstrap | CSS3 | HTML5 | Laravel | Flutter |
+| | | | | | |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="35" height="35" /></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35" /></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35" /></a> | <a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/Wangjarimm/pickmeup/main/icon/logo-laravel-icon-1024.png?raw=true" alt="laravel" width="35" height="35" /></a> | <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35" height="35" /></a> | <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35" /></a> |
+| Bootstrap | CSS3 | HTML5 | Laravel | Flutter | Node.js |
 
 </td>
-
-<td valign="top" width="33%">
-
-### ⚙️ Backend / Runtime
-| |
-|:---:|
-| <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35" /></a> |
-| Node.js |
-
-</td>
-
-</tr>
-<tr>
 
 <td valign="top" width="33%">
 
@@ -59,6 +46,9 @@
 | Pandas | TensorFlow | Scikit-learn |
 
 </td>
+
+</tr>
+<tr>
 
 <td valign="top" width="33%">
 
@@ -82,8 +72,11 @@
 
 </td>
 
+<td valign="top" width="33%"></td>
+
 </tr>
 </table>
+
 ##  Featured Projects
 
 ### 📦 DAMRI Human Capital Intelligence Platform
