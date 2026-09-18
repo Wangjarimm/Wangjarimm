@@ -12,6 +12,7 @@
 - 🛠️ Enjoy building backend systems, APIs, and full-stack web/mobile apps
 - 📫 Open to collaboration, discussions, and freelance opportunities
 
+## Languages and Tools I Use
 ### 🌐 Frontend & Frameworks
 <table>
 <tr>
