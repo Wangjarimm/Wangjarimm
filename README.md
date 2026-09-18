@@ -40,22 +40,18 @@
 ### 🌐 Frontend & Frameworks
 <table>
 <tr>
-<td align="center"><a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a><br>Bootstrap</td>
+<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a><br>HTML5</td>
 <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a><br>CSS3</td>
 </tr>
 <tr>
-<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a><br>HTML5</td>
-<td align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/Wangjarimm/pickmeup/main/icon/logo-laravel-icon-1024.png?raw=true" width="40" height="40"/></a><br>Laravel</td>
+<td align="center"><a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a><br>Bootstrap</td>
+<td align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/></a><br>Laravel</td>
 </tr>
 <tr>
 <td align="center"><a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a><br>Flutter</td>
 <td align="center"><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a><br>Node.js</td>
-<td></td>
 </tr>
 </table>
-
-</td>
-<td valign="top" width="33%">
 
 
 ### 📊 Data Science & ML
