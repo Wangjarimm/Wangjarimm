@@ -13,6 +13,11 @@
 - 📫 Open to collaboration, discussions, and freelance opportunities
 
 ## Languages and Tools I Use
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
 ### 🌐 Frontend & Frameworks
 <table>
 <tr>
@@ -29,35 +34,19 @@
 </tr>
 </table>
 
-### 🗄️ Databases
-<table>
-<tr>
-<td align="center"><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a><br>MongoDB</td>
-<td align="center"><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a><br>MySQL</td>
-<td align="center"><a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a><br>PostgreSQL</td>
-</tr>
-</table>
-
-### ☁️ Tools & Platforms
-<table>
-<tr>
-<td align="center"><a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/></a><br>Chart.js</td>
-<td align="center"><a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/></a><br>GCP</td>
-<td align="center"><a href="https://www.heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40"/></a><br>Heroku</td>
-<td align="center"><a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a><br>Figma</td>
-<td align="center"><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a><br>Linux</td>
-</tr>
-</table>
+</td>
+<td valign="top" width="33%">
 
 ### 🗄️ Databases
 <table>
 <tr>
 <td align="center"><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a><br>MongoDB</td>
+</tr>
+<tr>
 <td align="center"><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a><br>MySQL</td>
 </tr>
 <tr>
 <td align="center"><a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a><br>PostgreSQL</td>
-<td></td>
 </tr>
 </table>
 
@@ -68,22 +57,24 @@
 <table>
 <tr>
 <td align="center"><a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/></a><br>Chart.js</td>
+</tr>
+<tr>
 <td align="center"><a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/></a><br>GCP</td>
 </tr>
 <tr>
 <td align="center"><a href="https://www.heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40"/></a><br>Heroku</td>
+</tr>
+<tr>
 <td align="center"><a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a><br>Figma</td>
 </tr>
 <tr>
 <td align="center"><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a><br>Linux</td>
-<td></td>
 </tr>
 </table>
 
 </td>
 </tr>
 </table>
-
 ##  Featured Projects
 
 ### 📦 DAMRI Human Capital Intelligence Platform
