@@ -130,7 +130,7 @@ A Web-based platform for ordering and managing laundry services online, built ar
 
 `Go` `JavaScript` `MongoDB`
 
-[Project Details →](https://wangjarimm.github.io/desclaundry/)
+[Project Detail →](https://wangjarimm.github.io/desclaundry/)
 
 ---
 
