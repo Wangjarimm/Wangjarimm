@@ -46,15 +46,6 @@
 </tr>
 </table>
 
-### 📊 Data Science & ML
-<table>
-<tr>
-<td align="center"><a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/></a><br>Pandas</td>
-<td align="center"><a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a><br>TensorFlow</td>
-<td align="center"><a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a><br>Scikit-learn</td>
-</tr>
-</table>
-
 ### 🗄️ Databases
 <table>
 <tr>
