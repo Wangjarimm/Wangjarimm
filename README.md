@@ -12,37 +12,19 @@
 - 🛠️ Enjoy building backend systems, APIs, and full-stack web/mobile apps
 - 📫 Open to collaboration, discussions, and freelance opportunities
 
-## 🛠️ Languages and Tools I Use
-
+### 🌐 Frontend & Frameworks
 <table>
 <tr>
-<td valign="middle"><b>Languages</b></td>
-<td align="center"><a href="https://go.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/></a><br>Go</td>
-<td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a><br>JS</td>
-<td align="center"><a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a><br>PHP</td>
-<td align="center"><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a><br>Python</td>
-<td align="center"><a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/></a><br>Dart</td>
-<td valign="middle">&nbsp;&nbsp;<b>Frontend &amp; Frameworks</b></td>
 <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a><br>HTML5</td>
 <td align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a><br>CSS3</td>
+</tr>
+<tr>
 <td align="center"><a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a><br>Bootstrap</td>
 <td align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40"/></a><br>Laravel</td>
+</tr>
+<tr>
 <td align="center"><a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a><br>Flutter</td>
 <td align="center"><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a><br>Node.js</td>
-<td valign="middle">&nbsp;&nbsp;<b>Data Science &amp; ML</b></td>
-<td align="center"><a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40"/></a><br>Pandas</td>
-<td align="center"><a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/></a><br>TensorFlow</td>
-<td align="center"><a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/></a><br>Scikit-learn</td>
-<td valign="middle">&nbsp;&nbsp;<b>Databases</b></td>
-<td align="center"><a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a><br>MongoDB</td>
-<td align="center"><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a><br>MySQL</td>
-<td align="center"><a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a><br>PostgreSQL</td>
-<td valign="middle">&nbsp;&nbsp;<b>Tools &amp; Platforms</b></td>
-<td align="center"><a href="https://www.chartjs.org" target="_blank"><img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40"/></a><br>Chart.js</td>
-<td align="center"><a href="https://cloud.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/></a><br>GCP</td>
-<td align="center"><a href="https://www.heroku.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40"/></a><br>Heroku</td>
-<td align="center"><a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a><br>Figma</td>
-<td align="center"><a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/></a><br>Linux</td>
 </tr>
 </table>
 
