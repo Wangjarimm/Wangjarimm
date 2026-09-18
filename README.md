@@ -49,6 +49,7 @@
 </tr>
 <tr>
 <td align="center"><a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a><br>Flutter</td>
+<td align="center"><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a><br>Node.js</td>
 <td></td>
 </tr>
 </table>
@@ -56,18 +57,6 @@
 </td>
 <td valign="top" width="33%">
 
-### ⚙️ Backend / Runtime
-<table>
-<tr>
-<td align="center"><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a><br>Node.js</td>
-</tr>
-</table>
-
-</td>
-</tr>
-
-<tr>
-<td valign="top" width="33%">
 
 ### 📊 Data Science & ML
 <table>
