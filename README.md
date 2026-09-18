@@ -121,11 +121,11 @@ A web-based dashboard for tracking DAMRI employee performance, built around four
 [Project Detail →](https://wangjarimm.github.io/descdhcip/)
 
 ### 📊 SIRANI (Sistem Inovatif Pelaporan Kekerasan Anak Berbasis AI)
-A web-based reporting platform that gives children a safe, anonymous space to report abuse, built around three core modules: Chatbot (a two-way, empathetic conversational interface guiding the child through their story), Real-Time Emotion Detection (webcam-based facial expression monitoring running alongside the chat to read the child's emotional state), and Admin Panel (a login-protected dashboard where officers review and follow up on forwarded reports). Live at siranife.vercel.app
+A web-based reporting platform that gives children a safe, anonymous space to report abuse, built around three core modules: Chatbot (a two-way, empathetic conversational interface guiding the child through their story), Real-Time Emotion Detection (webcam-based facial expression monitoring running alongside the chat to read the child's emotional state), and Admin Panel (a login-protected dashboard where officers review and follow up on forwarded reports). Live at [siranife.vercel.app](https://siranife.vercel.app/).
 
 `Go` `MongoDB` `AI Chatbot`
 
-[Project Detail →](https://wangjarimm.github.io/descdhcip/)
+[Project Detail →](https://wangjarimm.github.io/descsirani/)
 
 ### 🤖 Nama Proyek 3
 Deskripsi singkat: masalah yang diselesaikan, fitur utama, dan hasil/dampaknya.
